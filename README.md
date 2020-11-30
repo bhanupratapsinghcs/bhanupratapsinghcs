@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-**I'm Bhanu Pratap Singh**, and _I'm a ✨ Full Stack Web Developer and Machine Learnind enthusiast_ ✨ 
+**I'm Bhanu Pratap Singh**, and _I'm a ✨ Full Stack Web Developer and Machine Learning enthusiast_ ✨ 
 
 <!--
 Here are some ideas to get you started:
