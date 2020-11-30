@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ```Current Tech```
 - 📫 How to reach me: [Bhanu Pratap Singh](https://www.linkedin.com/in/bhanu-pratap-singh-ba114b182/)
 - 😄 Pronouns: Bhanu Maxias
-- ⚡ Fun fact: It Does'nt Matter
 
