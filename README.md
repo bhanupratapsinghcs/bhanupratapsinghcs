@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on *Machine Learning Models And Web Development projects*
 - 💬 Ask me about ```Current Tech```
 - 📫 How to reach me: [Bhanu Pratap Singh](https://www.linkedin.com/in/bhanu-pratap-singh-ba114b182/)
-- 😄 Pronouns: Bhanu Maxias
+- 😄 Pronouns: He/Him
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanupratapsinghcs&show_icons=true&locale=en&layout=compact" alt="bhanupratapsinghcs" /></p>
 
